@@ -1,4 +1,4 @@
-# chirimen-TY51822r3 `LIVE` examples
+# CHIRIMEN for TY51822r3 `LIVE` examples
 
 ## GPIO examples:
 
